@@ -1,4 +1,4 @@
-Malloc-C
+Malloc Lab
 ========
 Malloc is an assignment from my class 15-213 (Introduction to Computer Systems) that I took Spring 2013. In this lab I used an explicit free list for memory allocation and optimized by implementing coalescing and a best fit policy.
 
